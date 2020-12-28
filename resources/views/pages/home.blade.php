@@ -17,6 +17,11 @@ $(document).ready(function(){
 @stop
 @section('content')
 <div class="container" style="padding-top:50px;">
+        <div id="message" style="text-align: center;">
+                <div class="alert alert-danger" style="font-size:24px;">
+                        FUMA will be closed for server maintenance starting December 30, 2020. This maintenance is expected to take 1-3 days.
+                </div>
+        </div>
 	<div style="text-align: center;">
 		<h2>FUMA GWAS</h2>
 		<h2>Functional Mapping and Annotation of Genome-Wide Association Studies</h2>
